@@ -20,3 +20,11 @@ Outra forma de contribuir com o projeto é revisando PRs abertos. Se você tem d
 
 No momento da revisão lembre-se de ser cordial/educado e, se possível, teste manualmente a alteração ou correção antes de aprovar o PR.
 
+## Padronização para Mensagens de Commit
+* `feat`: um novo recurso
+* `fix`: uma correção de bug
+* `docs`: alterações na documentação
+* `style`: formatação, falta de dois pontos, etc; nenhuma mudança de código
+* `refactor`: refatoração do código de produção
+* `test`: adicionando testes, teste de refatoração; nenhuma mudança de código de produção
+* `chore`: atualizar tarefas de compilação, configurações do gerenciador de pacotes, etc; nenhuma mudança de código de produção

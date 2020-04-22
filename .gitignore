@@ -48,6 +48,7 @@ $RECYCLE.BIN/
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
+launch.json
 
 # Local History for Visual Studio Code
 .history/
