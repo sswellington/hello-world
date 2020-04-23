@@ -10,8 +10,6 @@ Obs.1: O total já percorrido pode ser calculado como Vm * t
 
 ### Somatório
 Faça um programa, com uma função que necessite de três argumentos, e que forneça a soma desses três argumentos.
-#### Solução
-
 
 ### Imprimir matriz
 Escreva uma função imprime_matriz(matriz), 
@@ -66,12 +64,3 @@ Exemplos:
 * sao_multiplicaveis(m1, m2) => True 
 #### Solução 
 * [Python](https://github.com/sswellington/hello-world/tree/master/src/function/python/matriz-multiplicacao.py)
-
-### Verificador de CPF
-Faça um programa que verifica um CPF
-* Verificar se o CPF informado contém todos os dígidos nem são repetidos
-* Confirmar se o primeiro dígito do verificador está correto
-* Confirmar se o segundo dígito do verificador está correto
-* Validar o CPF
-* Informar o estado emissor do CPF
-#### Solução
