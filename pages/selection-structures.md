@@ -6,6 +6,9 @@
 Faça um programa que peça um valor e mostre na tela se o valor é positivo ou negativo.
 #### Solução
 
+### Número primo
+Faça um programa que exiba verdadeiro se o número for primo (falso caso contrário)
+
 ### Energia elétrica
 Calcule o valor da fatura do cliente, por intermédio do consumo em Kw/H e a categoria de consumo, sendo:
 * residencial =  consumo em KwH * 0.6);

@@ -47,6 +47,21 @@ Faça um programa que verifica um CPF
 |   |   |   |   |
 |_______________|
 
+
+### [Sudoku](https://www.youtube.com/watch?v=G_UYXzGuqvM)
+
+	0,1,2, ... , 8 
+0	 _______________
+1	|   |   |   |   |
+2	|---|---|---|---| 
+	| m | 1 |   |   |
+.	|---|---|---|---| 
+.	|   | 2 |   |   |
+.	|---|---|---|---| 
+	|   |   |   |   |
+8	|_______________|
+
+
 ### Snake
  _________________________
 |                         | 
@@ -73,4 +88,4 @@ Faça um programa que verifica um CPF
 * 4 submarinos  -> =  
 * 3 destroyes   -> ~=
 * 2 cruzadores  -> <==>
-* 1 porta-avião -> <´=`>
+* 1 porta-avião -> <´=`>  

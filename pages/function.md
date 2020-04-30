@@ -8,6 +8,9 @@ Obs.1: O total já percorrido pode ser calculado como Vm * t
 #### Solução
 * [Pascal](https://github.com/sswellington/hello-world/tree/master/src/function/pascal/velocidade-media.pas)
 
+### Número Primo 
+Implementar uma função que retorne verdadeiro se o número for primo (falso caso contrário). Testar de 1 a 100.
+
 ### Somatório
 Faça um programa, com uma função que necessite de três argumentos, e que forneça a soma desses três argumentos.
 
@@ -64,3 +67,5 @@ Exemplos:
 * sao_multiplicaveis(m1, m2) => True 
 #### Solução 
 * [Python](https://github.com/sswellington/hello-world/tree/master/src/function/python/matriz-multiplicacao.py)
+
+### Cifra de César
